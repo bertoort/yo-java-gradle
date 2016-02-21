@@ -1,0 +1,23 @@
+{
+  "name": "generator-java-gradle",
+  "version": "0.0.5",
+  "description": "Basic java gradle app",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "java",
+    "gradle",
+    "yeoman-generator"
+  ],
+  "author": "bertoort",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^0.22.5"
+  }
+}
